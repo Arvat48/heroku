@@ -1,12 +1,5 @@
-# angular-heroku
+# Tutorial Deploy Yeoman/AngularJS application on Heroku
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
-
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+demo : [https://deployangularjsheroku.herokuapp.com/#/](https://deployangularjsheroku.herokuapp.com/#/)  
+tutorial (FR)  : [http://pierrebaron.fr/blog/deploy-yeoman-angular-app-heroku/](http://pierrebaron.fr/blog/deploy-yeoman-angular-app-heroku/)
+"# heroku" 
